@@ -1,1 +1,1 @@
-# KFC_clone
+# kfc-clone
